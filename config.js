@@ -423,12 +423,12 @@ else return emotttt[results[0][0]];
 
 // IDs de canales
 global.ch = {
-ch1: '120363336642332098@newsletter',
-ch2: '120363160031023229@newsletter',
-ch3: '120363169294281316@newsletter',
-ch4: '120363203805910750@newsletter',
-ch5: '120363302472386010@newsletter',
-ch6: '120363301598733462@newsletter',
+ch1: '',
+ch2: '',
+ch3: '',
+ch4: '',
+ch5: '',
+ch6: '',
 }
 // • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • •
 
@@ -456,26 +456,4 @@ global.asistencia = others.assistance_num
 global.bot = 'wa.me/528241264763'
 global.cuentas = accounts.all
 
-global.canal1 = channels.channel1
-global.canal2 = channels.channel2
-global.canal3 = channels.channel3
-global.canal4 = channels.channel4
-
-global.soporteGB = others.group_support
-global.grupo1 = groups.group1
-global.grupo2 = groups.group2
-global.grupo3 = groups.group3
-global.grupo4 = groups.group4
-global.grupo5 = groups.group5
-global.grupo6 = groups.group6
-
-global.grupo_collab1 = collaboration.group1
-global.grupo_collab2 = collaboration.group2
-global.grupo_collab3 = collaboration.group3
-global.grupo_collab4 = collaboration.group4
-
-global.patrocinador1 = sponsors.boxmine
-global.patrocinador2 = sponsors.cafirexos
-global.patrocinador3 = sponsors.vortexus
-global.patrocinador4 = sponsors.asif
 }
